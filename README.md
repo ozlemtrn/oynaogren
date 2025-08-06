@@ -2,6 +2,11 @@
 
 ![Soru Haritası Ekranı](./screenshots/oynaogren-map.jpg)
 
+<h2>Ekran Görüntüleri</h2>
+
+<img src="./screenshots/oynaogren-preview.jpg" alt="Ana ekran" width="250"/>
+<img src="./screenshots/oynaogren-map.jpg" alt="Ünite ekranı" width="250"/>
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
