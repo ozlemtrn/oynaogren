@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "mynewproject-3c9e4",
+    "staging": "mynewproject-3c9e4",
+    "cloud firebase": "mynewproject-3c9e4"
+  },
+  "targets": {},
+  "etags": {}
+}
