@@ -1,11 +1,11 @@
-![Uygulama Ana Sayfa](./screenshots/oynaogren-preview.jpg)
+## Ekran Görüntüleri
 
-![Soru Haritası Ekranı](./screenshots/oynaogren-map.jpg)
+### Ana Sayfa
+<img src="screenshots/oynaogren-home.jpg" width="250"/>
 
-<h2>Ekran Görüntüleri</h2>
+### Soru Haritası Ekranı
+<img src="screenshots/oynaogren-map.jpg" width="250"/>
 
-<img src="./screenshots/oynaogren-preview.jpg" alt="Ana ekran" width="250"/>
-<img src="./screenshots/oynaogren-map.jpg" alt="Ünite ekranı" width="250"/>
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
